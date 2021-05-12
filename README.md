@@ -1,2 +1,2 @@
-# paw_project
+# PAW Project
 Proiect PAW evident
