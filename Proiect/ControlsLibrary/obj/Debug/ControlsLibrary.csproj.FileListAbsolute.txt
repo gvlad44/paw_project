@@ -1,0 +1,6 @@
+C:\Users\gontv\Desktop\Facultate\AN 2 SEM 2\PAW\Proiect\ControlsLibrary\bin\Debug\ControlsLibrary.dll
+C:\Users\gontv\Desktop\Facultate\AN 2 SEM 2\PAW\Proiect\ControlsLibrary\bin\Debug\ControlsLibrary.pdb
+C:\Users\gontv\Desktop\Facultate\AN 2 SEM 2\PAW\Proiect\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+C:\Users\gontv\Desktop\Facultate\AN 2 SEM 2\PAW\Proiect\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gontv\Desktop\Facultate\AN 2 SEM 2\PAW\Proiect\ControlsLibrary\obj\Debug\ControlsLibrary.dll
+C:\Users\gontv\Desktop\Facultate\AN 2 SEM 2\PAW\Proiect\ControlsLibrary\obj\Debug\ControlsLibrary.pdb

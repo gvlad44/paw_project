@@ -1,0 +1,4 @@
+LastName,FirstName,Age,ComputerName,ID,Read,Write,Execute,AccessLevel,City
+Vlad,Gont,20, gvlad, 1, True,True, True, Admin, Bucuresti
+Gabi,Nume,21, desktop, 2, True,True, False, User, Iasi
+Cristi,Altnume,19, laptop, 3, True,False, False, Guest, Brasov
